@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Golden Crescent Moon -->
+    <path
+        android:pathData="M56,30 C42.745,30 32,40.745 32,54 C32,67.255 42.745,78 56,78 C62.3,78 68.04,75.58 72.33,71.63 C58.5,71.5 47.5,60.5 47.5,46.5 C47.5,39.5 50.4,33.17 55.15,28.67 C55.43,29.1 55.71,29.54 56,30 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="32"
+                android:startY="30"
+                android:endX="72"
+                android:endY="78"
+                android:type="linear">
+                <item android:color="#FFE885" android:offset="0.0" />
+                <item android:color="#D4AF37" android:offset="0.6" />
+                <item android:color="#AA820A" android:offset="1.0" />
+            </gradient>
+        </aapt:attr>
+    </path>
+    <!-- Eight-pointed Islamic Star -->
+    <path
+        android:pathData="M66,42 L68,36 L74,38 L72,44 L78,46 L74,52 L78,56 L72,58 L74,64 L68,66 L66,60 L60,62 L62,56 L58,52 L62,46 L60,40 Z"
+        android:fillColor="#F6D565" />
+    <path
+        android:pathData="M66,46 L68,49 L71,48 L69,51 L71,54 L68,53 L66,56 L65,53 L62,54 L64,51 L62,48 L65,49 Z"
+        android:fillColor="#FFF4B8" />
+    <!-- Small prayer bead accents -->
+    <path
+        android:pathData="M37,36m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#D4AF37" />
+    <path
+        android:pathData="M31,44m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#D4AF37" />
+    <path
+        android:pathData="M29,54m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#D4AF37" />
+    <path
+        android:pathData="M31,64m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#D4AF37" />
+    <path
+        android:pathData="M37,72m-2.5,0a2.5,2.5 0 1,0 5,0a2.5,2.5 0 1,0 -5,0"
+        android:fillColor="#D4AF37" />
+</vector>
